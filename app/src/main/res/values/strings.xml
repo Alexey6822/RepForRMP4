@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task6Application</string>
+    <string name="btnname">Выбрать фон</string>
+    <string name="mes">Хотите поменять фон?</string>
+    <color name="red">#FF0000</color>
+    <color name="yel">#FFFF00</color>
+    <color name="grn">#00FF00</color>
+    <string name="nred">Красный</string>
+    <string name="nyel">Желтый</string>
+    <string name="ngrn">Зеленый</string>
+</resources>
